@@ -1,0 +1,37 @@
+﻿,year,Demand,GDP_growth,freight_rate,HFO,ULSFO,MGO,,,Route Characteristics ,#Insert Route Name#
+0,2016,,3.3,,,,,,,D," the distance of whole voyage on the route from A to B, in nautical miles"
+1,2017,,3.8,,,,,,, ρ_t=270 x 24=6480 hours  :," the working time at sea in a year t in hours: it is assumed that a ship sails 24 h a day, and spends 270 days at sea per year (Buhaug et al., 2009)."
+2,2018,,3.5,,,,,,,t_sea=d_AB/V_s   ," sailing time during the voyage in hours,(sailing time of the cycle)"
+3,2019,,2.8,,,,,,,t_p  ,"incompressible port time during the cycle (including pilotage, mooring, time buffers, etc.) in hours "
+4,2020,,-4.4,,,,,,,T= t_{sea}+t_{port}  : ,"the total time (in hours) that a ship spends on a round-trip, (total cycle time ) in hours"
+5,2021,,5.2,,,,,,,,
+6,2022,,4.2,,,,,,,,
+7,2023,,3.8,,,,,,,,
+8,2024,,3.6,,,,,,,,
+9,2025,,3.5,,,,,,,,
+10,2026,,,,,,,,,,
+11,2027,,,,,,,,,,
+12,2028,,,,,,,,,,
+13,2029,,,,,,,,,,
+14,2030,,,,,,,,,,
+15,2031,,,,,,,,,,
+16,2032,,,,,,,,,,
+17,2033,,,,,,,,,,
+18,2034,,,,,,,,,,
+19,2035,,,,,,,,,,
+20,2036,,,,,,,,,,
+21,2037,,,,,,,,,  ,
+22,2038,,,,,,,,,Firms & Vessel Charac,
+23,2039,,,,,,,,,k_t^m  :  ,ship’s capacity given it s type m
+24,2040,,,,,,,,,m  ,ship’s capacity given it s type m
+25,2041,,,,,,,,,"V_t^m ∈(V_min^m,V_max^( m)) : ",the operational sailing speed of the vessel in units of nautical miles (nm) per hour given its type m
+26,2042,,,,,,,,,*   n_t^m  : ,total number of ships type m in firm i’ s fleet at period t   
+27,2043,,,,,,,,,,
+28,2044,,,,,,,,,,
+29,2045,,,,,,,,,,
+30,2046,,,,,,,,,,
+31,2047,,,,,,,,,,
+32,2048,,,,,,,,,,
+33,2049,,,,,,,,,,
+34,2050,,,,,,,,,,
+,Source,,IMF2020,,,,,,,,
